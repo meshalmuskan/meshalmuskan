@@ -17,4 +17,6 @@ Java • Spring Boot • React • Node.js • Python • TensorFlow • PyTorch
 Advanced System Design, AI Agents, and Cloud-Native Architectures
 
 ## 📫 Connect With Me
-LinkedIn | Portfolio | Email
+LinkedIn : https://www.linkedin.com/in/mishal-muskan-7ab36528b/
+Email: meshaalmuskan@gmail.com
+
