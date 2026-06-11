@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mishal Muskan 👋
 
-<!--
-**meshalmuskan/meshalmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer passionate about building scalable applications,
+automation systems, and AI-powered solutions.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Full-Stack Development
+- Backend Engineering
+- AI/ML Engineering
+- Cloud Engineering
+- Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Java • Spring Boot • React • Node.js • Python • TensorFlow • PyTorch • Scikit-learn • NextJs • AWS
+
+## 🌱 Currently Learning
+Advanced System Design, AI Agents, and Cloud-Native Architectures
+
+## 📫 Connect With Me
+LinkedIn | Portfolio | Email
